@@ -5,7 +5,7 @@ title: HIRAM CHO CV
 
 ![Hiram Cho](./media/profile.jpg){:.avatar}
 
-#HIRAM CHO
+# HIRAM CHO
 Softstack Factory Student
 
 <div id="webaddress">
@@ -23,7 +23,7 @@ I work at the Control Group in San Diego, CA. I am looking to expand my computer
 
 ## Education
 
-`2006`
+`2008`
 __University of California Los Angeles__ Bachelor's degree in Economics
 
 ## Technical skills
